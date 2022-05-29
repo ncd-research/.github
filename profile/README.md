@@ -11,4 +11,4 @@ Hello👋 This is a repository for research of Novel Class Discovery algorithm. 
 - [**NCL**] Zhong, Zhun, et al. "Neighborhood Contrastive Learning for Novel Class Discovery." (CVPR 2021) [[paper]](https://arxiv.org/pdf/2106.10731.pdf) [[code]](https://github.com/zhunzhong07/NCL)
 - [**UNO**] Fini, Enrico, et al. "A unified objective for novel class discovery." (ICCV 2021) [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Fini_A_Unified_Objective_for_Novel_Class_Discovery_ICCV_2021_paper.pdf) [[code]](https://github.com/DonkeyShot21/UNO)
 - [**MP, MM**] Chi, Haoang, et al. "Meta discovery: Learning to discover novel classes given very limited data." (ICLR 2022) [[paper]](https://openreview.net/pdf?id=MEpKGLsY8f) [[code]](https://github.com/Haoang97/MEDI)
-- [] gen...
+- [**GCD**] Vaze, Sagar, et al. "Generalized Category Discovery." (CVPR 2022) [[paper]](https://arxiv.org/pdf/2201.02609.pdf) [[code]](https://github.com/sgvaze/generalized-category-discovery)
