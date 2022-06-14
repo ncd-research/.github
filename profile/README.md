@@ -16,3 +16,4 @@ Hello👋 This is a repository for research of Novel Category Discovery algorith
 - [**MP, MM**] Chi, Haoang, et al. "Meta discovery: Learning to discover novel classes given very limited data." (ICLR 2022) [[paper]](https://openreview.net/pdf?id=MEpKGLsY8f) [[code]](https://github.com/Haoang97/MEDI)
 - [**GCD**] Vaze, Sagar, et al. "Generalized Category Discovery." (CVPR 2022) [[paper]](https://arxiv.org/pdf/2201.02609.pdf) [[code]](https://github.com/sgvaze/generalized-category-discovery)
   - The first paper to define the Generalized Category Discovery task.
+- [**ComEx**] Yang, Muli, et al. "Divide and Conquer: Compositional Experts for Generalized Novel Class Discovery." (CVPR 2022) [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Yang_Divide_and_Conquer_Compositional_Experts_for_Generalized_Novel_Class_Discovery_CVPR_2022_paper.pdf) [[code]](https://github.com/muliyangm/ComEx)
