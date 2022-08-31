@@ -17,4 +17,9 @@ Hello👋 This is a repository for research of Novel Category Discovery algorith
 - [**GCD**] Vaze, Sagar, et al. "Generalized Category Discovery." (CVPR 2022) [[paper]](https://arxiv.org/pdf/2201.02609.pdf) [[code]](https://github.com/sgvaze/generalized-category-discovery)
   - The first paper to define the Generalized Category Discovery task.
 - [**ComEx**] Yang, Muli, et al. "Divide and Conquer: Compositional Experts for Generalized Novel Class Discovery." (CVPR 2022) [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Yang_Divide_and_Conquer_Compositional_Experts_for_Generalized_Novel_Class_Discovery_CVPR_2022_paper.pdf) [[code]](https://github.com/muliyangm/ComEx)
+- [**NCDwF**] Aggarwal, Gaurav, et al. "Novel Class Discovery without Forgetting." (ECCV 2022) [[paper]](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/0b807818d903064413ff11746a747e411c25bfb9.pdf)
 - [**XCon**] Fei, Yixin, et al. "XCon: Learning with Experts for Fine-grained Category Discovery." (arXiv, 2022) [[paper]](https://arxiv.org/pdf/2208.01898.pdf) [[code]](https://github.com/YiXXin/XCon)
+
+---
+
+**(Updates: 22.08.31)** There is a well-organized reference repository [here](https://github.com/JosephKJ/Awesome-Novel-Class-Discovery).
