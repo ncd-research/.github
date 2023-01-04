@@ -24,8 +24,8 @@ Hello👋 This is a repository for research of Novel Category Discovery algorith
   - The first paper to define the Generalized Category Discovery task.
 - [**ComEx**] Yang, Muli, et al., "Divide and Conquer: Compositional Experts for Generalized Novel Class Discovery." (CVPR 2022) [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Yang_Divide_and_Conquer_Compositional_Experts_for_Generalized_Novel_Class_Discovery_CVPR_2022_paper.pdf) [[code]](https://github.com/muliyangm/ComEx)
 - [**XCon**] Fei, Yixin, et al., "XCon: Learning with Experts for Fine-grained Category Discovery." (2022) [[paper]](https://arxiv.org/pdf/2208.01898.pdf) [[code]](https://github.com/YiXXin/XCon)
-- [**SimGCD**] Xin Wen, et al., "A Simple Parametric Classification Baseline for Generalized Category Discovery." (2022) [[paper]](https://arxiv.org/abs/2211.11727)
-- [**PromptCAL**] Sheng Zhan, et al., "PromptCAL: Contrastive Affinity Learning via Auxiliary Prompts for Generalized Novel Category Discovery." (under review, 2022) [[paper]](https://openreview.net/pdf?id=yVcLmMW5ySI)
+- [**SimGCD**] Xin Wen, et al., "A Simple Parametric Classification Baseline for Generalized Category Discovery." (2022) [[paper]](https://arxiv.org/abs/2211.11727)[[code]](https://github.com/CVMI-Lab/SimGCD)
+- [**PromptCAL**] Sheng Zhan, et al., "PromptCAL: Contrastive Affinity Learning via Auxiliary Prompts for Generalized Novel Category Discovery." (under review, 2022) [[paper]](https://openreview.net/pdf?id=yVcLmMW5ySI)[[code]](https://github.com/sheng-eatamath/PromptCAL)
 - [**MIB**] Florent Chiaroni, et al., "Mutual Information-based Generalized Category Discovery." (2022) [[paper]](https://arxiv.org/pdf/2212.00334.pdf)
 - [**MI**] Chuyu Zhang, et al., "Mutual Information-guided Knowledge Transfer for Open-World Semi-Supervised Learning ." (2022) [[paper]](https://openreview.net/pdf?id=7IMneQViz6h)
 - [**GPC**] Bingchen Zhao, et al., "Generalized Category Discovery via Adaptive GMMs without Knowing the Class Number." (2022) [[paper]](https://openreview.net/pdf?id=oQjWltREeRA)
